@@ -1,2 +1,5 @@
 # Pyladies
-A Git Tutorial
+
+
+by Dhriti Shikhar
+
